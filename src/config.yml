@@ -1,0 +1,26 @@
+settings:
+  game:
+    Countdown: 60
+  Spawns:
+    blue:
+      X: 0.0
+      Y: 80.0
+      Z: 0.0
+      Yaw: 0.0
+      Pitch: 0.0
+      World: world
+    red:
+      X: 0.0
+      Y: 80.0
+      Z: 0.0
+      Yaw: 0.0
+      Pitch: 0.0
+      World: world
+  area:
+    xa: 0
+    xb: 0
+    ya: 0
+    yb: 256
+    za: 0
+    zb: 0
+    world: factory

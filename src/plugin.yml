@@ -1,0 +1,13 @@
+name: Firefight
+version: 1.0.0
+author: ZeroxTV
+main: me.ZeroxTV.Firefight.Main
+description: Ein Spielmodus
+
+commands:
+   firefight:
+      usage: /<command>
+      description: Haupt Command
+   firefight help:
+      usage: /<command>
+      description: Zeige eine Command Liste
