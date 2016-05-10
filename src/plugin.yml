@@ -1,7 +1,7 @@
 name: Firefight
 version: 1.0.0
 author: ZeroxTV
-main: me.ZeroxTV.Firefight.Main
+main: com.ZeroxTV.Firefight.Main
 description: Ein Spielmodus
 
 commands:
